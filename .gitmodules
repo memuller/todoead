@@ -4,3 +4,6 @@
 [submodule "wp-content/mu-plugins/todoead"]
 	path = wp-content/mu-plugins/todoead
 	url = git://github.com/memuller/todoead-plugin.git
+[submodule "wp-content/themes/roots"]
+	path = wp-content/themes/roots
+	url = git://github.com/marcos-paiva/roots.git
