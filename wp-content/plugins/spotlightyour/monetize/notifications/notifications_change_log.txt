@@ -1,0 +1,13 @@
+/*  
+Framework Name: Manage Notifications Module
+Framework URI:  http://ddb_wp.com/
+Description:   	Developed by ddb_wp Team.
+Version:       	1.0.0
+*/
+
+
+
+1st  April - 2011 (v:1.0.0)
+----------------------------------------
+Fresh Release
+

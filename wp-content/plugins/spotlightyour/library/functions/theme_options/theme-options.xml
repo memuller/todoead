@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+<wp_option_tree>
+  <row>
+    <id>1</id>
+    <item_id>general_settings</item_id>
+    <item_title>General Settings</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>1</item_sort>
+  </row>
+  <row>
+    <id>2</id>
+    <item_id>ddbwpthemes_alt_stylesheet</item_id>
+    <item_title>Theme Skin</item_title>
+    <item_desc>Select the color skin of your site from here</item_desc>
+    <item_type>select</item_type>
+    <item_options>green,red,blue,rosybrown,lemon,gold,sienna</item_options>
+    <item_sort>2</item_sort>
+  </row>
+  <row>
+    <id>3</id>
+    <item_id>ddbwpthemes_icoupon_aff</item_id>
+    <item_title>Icoupon Affiliate</item_title>
+    <item_desc>Enter the full URL of your iCoupon Affiliate. &amp;lt;a href=&amp;quot;http://www.icoupononline.com/index.php?option=com_affiliate&amp;task=affiliateRegister&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Create one here&amp;lt;/a&amp;gt;</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>3</item_sort>
+  </row>
+  <row>
+    <id>4</id>
+    <item_id>ddbwpthemes_show_icoupon_deals</item_id>
+    <item_title>Show iCoupon Deals</item_title>
+    <item_desc>Show third party deals from iCoupon. &amp;lt;a  href=&amp;quot;http://whmcssitelock.dealopia.com/cart.php?gid=2&amp;quot;&amp;gt;Upgrade here&amp;lt;/a&amp;gt; to offer your own deals </item_desc>
+    <item_type>radio</item_type>	
+    <item_options>Yes,No</item_options>
+    <item_sort>4</item_sort>
+  </row>
+  <row>
+    <id>7</id>
+    <item_id>ddbwpthemes_tweet_button</item_id>
+    <item_title>&amp;quot;Tweet&amp;quot; button</item_title>
+    <item_desc>Show &amp;quot;Tweet&amp;quot; button</item_desc>
+    <item_type>radio</item_type>
+    <item_options>Yes,No</item_options>
+    <item_sort>7</item_sort>
+  </row>
+  <row>
+    <id>68</id>
+    <item_id>ddbwpthemes_default_currency</item_id>
+    <item_title>Currency</item_title>
+    <item_desc>Enter currency code like(USD)</item_desc>
+    <item_type>select</item_type>
+    <item_options>USD-US Dollar,GBP-Pound,JPY-Japanese Yen,EUR-Euro,AUD-Austrailian Dollar,CAD-Canadian Dollar,NZD-New Zealand Dollar,CHF-Swiss Franc,HKD-Hong Kong Dollar,SGD-Singapore Dollar,SEK-Swedish Krona,DKK-Danish Krone,PLN-Polish Zloty,NOK-Norwegian Krone,HUF-Hungarian Forint,CZK-Czech Koruna,ILS-Israeli Shekel,MXN-Mexican Peso,PHP-Philippine Pesos,TWD-Taiwan New Dollars,THB-Thai Baht,BRL-Brazilian Real,MYR-Malaysian Ringgits</item_options>
+    <item_sort>8</item_sort>
+  </row>
+  <row>
+    <id>8</id>
+    <item_id>ddbwpthemes_facebook_button</item_id>
+    <item_title>&amp;quot;Facebook &amp;quot; button</item_title>
+    <item_desc>Show &amp;quot;Facebook Like&amp;quot; button</item_desc>
+    <item_type>radio</item_type>
+    <item_options>Yes,No</item_options>
+    <item_sort>9</item_sort>
+  </row>
+  <row>
+    <id>13</id>
+    <item_id>ddbwpthemes_postcontent_full</item_id>
+    <item_title>Content Display</item_title>
+    <item_desc>Instead of default Post excerpts display Full Post Content in City Listing</item_desc>
+    <item_type>radio</item_type>
+    <item_options>Full Content,Excerpt</item_options>
+    <item_sort>14</item_sort>
+  </row>
+  <row>
+    <id>14</id>
+    <item_id>ddbwpthemes_content_excerpt_count</item_id>
+    <item_title>Content Excerpt Word Count</item_title>
+    <item_desc>Enter Content Excerpt Word Count.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>15</item_sort>
+  </row>
+  <row>
+    <id>15</id>
+    <item_id>ddbwpthemes_content_excerpt_readmore</item_id>
+    <item_title>Content Excerpt "Read More" Link Text</item_title>
+    <item_desc>Enter Content Excerpt "Read More" Link Text</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>16</item_sort>
+  </row>
+  <row>
+    <id>22</id>
+    <item_id>ptttheme_fb_opt</item_id>
+    <item_title>Facebook Plugin Support</item_title>
+    <item_desc>Select if you want to enable Facebook Connect plugin support. If you enable this option, then you will need to &amp;lt;a href=&amp;quot;http://wordpress.org/extend/plugins/wp-facebookconnect/&amp;quot;&amp;gt;install this plugin&amp;lt;/a&amp;gt;</item_desc>
+    <item_type>radio</item_type>
+    <item_options>Enable,Disable</item_options>
+    <item_sort>23</item_sort>
+  </row>
+  <row>
+    <id>24</id>
+    <item_id>ddbwpthemes_view_opt</item_id>
+    <item_title>Switch view for listing</item_title>
+    <item_desc>Switch view for listing page</item_desc>
+    <item_type>radio</item_type>
+    <item_options>Grid View,List View</item_options>
+    <item_sort>25</item_sort>
+  </row>
+  <row>
+    <id>28</id>
+    <item_id>header_footer_scripts</item_id>
+    <item_title>Add Scripts</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>29</item_sort>
+  </row>
+  <row>
+    <id>29</id>
+    <item_id>ddbwpthemes_scripts_header</item_id>
+    <item_title>Header Scripts</item_title>
+    <item_desc>If you need to add scripts to your header (like &amp;lt;a href=&amp;quot;http://haveamint.com/&amp;quot;&amp;gt;Mint&amp;lt;/a&amp;gt; tracking code), do so here.</item_desc>
+    <item_type>textarea</item_type>
+    <item_options>10</item_options>
+    <item_sort>30</item_sort>
+  </row>
+  <row>
+    <id>30</id>
+    <item_id>ddbwpthemes_scripts_footer</item_id>
+    <item_title>Footer Scripts</item_title>
+    <item_desc>If you need to add scripts to your footer (like &amp;lt;a href=&amp;quot;http://www.google.com/analytics/&amp;quot;&amp;gt;Google Analytics&amp;lt;/a&amp;gt; tracking code), do so here.</item_desc>
+    <item_type>textarea</item_type>
+    <item_options>10</item_options>
+    <item_sort>31</item_sort>
+  </row>
+  <row>
+    <id>55</id>
+    <item_id>ddbwpthemes_common_settings</item_id>
+    <item_title>Style &amp; Color Settings</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>56</item_sort>
+  </row>
+  <row>
+    <id>56</id>
+    <item_id>ddbwpthemes_fonts</item_id>
+    <item_title>Fonts</item_title>
+    <item_desc>Choose your site fonts</item_desc>
+    <item_type>select</item_type>
+    <item_options>Verdana, Geneva, Arial, Arial Black, Trebuchet MS, Helvetica, sans-serif, Georgia, Times New Roman, Times, serif,</item_options>
+    <item_sort>57</item_sort>
+  </row>
+  <row>
+    <id>57</id>
+    <item_id>ddbwpthemes_body_background_color</item_id>
+    <item_title>Body Background Color</item_title>
+    <item_desc>Choose your site background color</item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>58</item_sort>
+  </row>
+  <row>
+    <id>58</id>
+    <item_id>ddbwpthemes_body_background_image</item_id>
+    <item_title>Body Background Image</item_title>
+    <item_desc>Upload background image from here</item_desc>
+    <item_type>upload</item_type>
+    <item_options></item_options>
+    <item_sort>59</item_sort>
+  </row>
+  <row>
+    <id>60</id>
+    <item_id>ddbwpthemes_link_color_normal</item_id>
+    <item_title>Link Color Normal</item_title>
+    <item_desc>Select link color normal</item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>60</item_sort>
+  </row>
+  <row>
+    <id>59</id>
+    <item_id>ddbwpthemes_body_bg_postions</item_id>
+    <item_title>Body Background Image Postions</item_title>
+    <item_desc>Select body background image postion</item_desc>
+    <item_type>select</item_type>
+    <item_options>no-repeat,repeat,repeat-x,repeat-y,repeat-y center top,repeat-y left top</item_options>
+    <item_sort>61</item_sort>
+  </row>
+  <row>
+    <id>62</id>
+    <item_id>ddbwpthemes_main_title_color</item_id>
+    <item_title>Main Title Color</item_title>
+    <item_desc>Select main title color</item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>62</item_sort>
+  </row>
+  <row>
+    <id>61</id>
+    <item_id>ddbwpthemes_link_color_hover</item_id>
+    <item_title>Link Color Hover</item_title>
+    <item_desc>Select Hover link color</item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>63</item_sort>
+  </row>
+  <row>
+    <id>63</id>
+    <item_id>ddbwpthemes_customcss</item_id>
+    <item_title>Use Custom Stylesheet</item_title>
+    <item_desc>If you want to make custom design changes using CSS enable this and &amp;lt;a href=&amp;quot;theme-editor.php&amp;quot;&amp;gt;edit custom.css file here&amp;lt;/a&amp;gt;</item_desc>
+    <item_type>radio</item_type>
+    <item_options>Activate, Deactivate</item_options>
+    <item_sort>64</item_sort>
+  </row>
+</wp_option_tree>

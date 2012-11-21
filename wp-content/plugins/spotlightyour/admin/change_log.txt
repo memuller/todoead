@@ -1,0 +1,32 @@
+/*  
+Framework Name:    ddb_wp Framework
+Framework URI:     http://ddb_wp.com/
+Description:   Developed by ddb_wp Team.
+Version:       1.0.2
+*/
+
+
+
+7th  March - 2011 (v:1.0.1)
+----------------------------------------
+Desing settings changes
+---------------------------------------
+admin/admin_main.php
+admin/functions/custom_functions.php
+
+----------------------------------------
+Widget new filters added
+---------------------------------------
+admin/widgets/anything_listing_slider/anything_listing_slider.php
+admin/widgets/anything_slider/anything_slider.php
+admin/widgets/pika_choose_slider/pika_choose_slider.php
+
+
+
+
+
+
+23rd  Feb - 2011 (v:1.0.0)
+----------------------------------------
+Fresh Release
+
