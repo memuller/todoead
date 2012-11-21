@@ -1,0 +1,1 @@
+<?php require('./wordpress/wp-blog-header.php'); ?>
